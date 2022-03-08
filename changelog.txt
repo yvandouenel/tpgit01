@@ -1,0 +1,4 @@
+version 0.1.0 - 8/03/2021
+----------------------------
+Le cv de Jason avec bootstrap 5 et un js pour donner l'illusion d'une écriture en temps réél
+
